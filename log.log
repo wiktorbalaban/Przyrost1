@@ -1,0 +1,2 @@
+2017-10-24 14:24:10 ERROR SqlAsk:23 - To zapytanie jest błędne
+2017-10-24 14:34:12 ERROR SqlAsk:30 - java.io.FileNotFoundException: SQLQueryData\Zad\1.txt (The system cannot find the path specified)
